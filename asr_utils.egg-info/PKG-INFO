@@ -1,0 +1,55 @@
+Metadata-Version: 1.2
+Name: asr-utils
+Version: 0.1.0
+Summary: using tasi ASR to translate audio to text
+Home-page: https://github.com/Geek981108/asr_utils
+Author: tasi
+Author-email: xuyihe@tasitech.ai
+License: UNKNOWN
+Description: =========
+        asr-utils
+        =========
+        
+        
+        
+        
+        
+        
+        using tasi ASR to translate audio to text
+        
+        
+        
+        Features
+        --------
+        
+        * TODO
+        
+        Credits
+        -------
+        
+        This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+        
+        .. _Cookiecutter: https://github.com/audreyr/cookiecutter
+        .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+        
+        
+        =======
+        History
+        =======
+        
+        0.1.0 (2020-06-30)
+        ------------------
+        
+        * First release on PyPI.
+        
+Keywords: asr_utils
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5

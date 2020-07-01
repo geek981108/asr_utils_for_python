@@ -1,0 +1,3 @@
+[console_scripts]
+asr_utils = asr_utils.cli:main
+
