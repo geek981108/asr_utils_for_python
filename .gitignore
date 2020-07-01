@@ -1,4 +1,10 @@
 
+.github/
+build/
+dist/
+.editorconfig
+.travis.yml
+.DS_Store
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm+all
 
