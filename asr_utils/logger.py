@@ -1,8 +1,6 @@
 import logging
 import os
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
 
 def logger_settings(logger_file_dir=None, logger_file_name=None):
     """

@@ -1,4 +1,3 @@
-"""Main module."""
 import asyncio
 import json
 import threading
@@ -93,8 +92,3 @@ class SendAudio:
                 threads.append(threading.Thread(target=self.create_loop))
             for item in threads:
                 item.start()
-
-
-
-
-
