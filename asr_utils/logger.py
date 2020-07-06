@@ -17,8 +17,8 @@ def logger_settings(logger_file_dir=None, logger_file_name=None):
 
     if logger_file_dir is not None and logger_file_name is not None:
         LOGGING_DIR = os.path.join(logger_file_dir, logger_file_name)
-        if not os.path.exists(LOGGING_DIR):
-            os.mkdir(LOGGING_DIR)
+        if not os.path.exists(logger_file_dir):
+            os.mkdir(logger_file_dir)
         f = open(os.path.join(logger_file_dir, logger_file_name), 'w')
         f.close()
         # 输出到文件
